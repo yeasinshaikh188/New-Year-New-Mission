@@ -1,3 +1,54 @@
-h3{
-    background-color: aqua;
+* {
+    width: 1320px;
+    margin-right: 300px;
+}
+
+.banner-container {
+    background-image: url("../Banner\ Image.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    background: (180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    margin: 50px 100px;
+
+}
+
+.banner-text {
+    text-align: center;
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 200;
+    padding: 150px 100px 50px 00px;
+    width: 630px;
+    color: #FFF;
+    font-family: Merriweather;
+    line-height: 30px;
+}
+
+/* title section */
+
+.data {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 100;
+    font-weight: 700;
+    margin-bottom: 30px;
+
+
+}
+
+.text {
+    color: #F00;
+}
+
+.banner-title-section {
+    text-align: center;
+    font-weight: 700;
+
+
+}
+
+.bac{
+    background-image: url("../New\ Year\ Photo.png");
+    
 }
