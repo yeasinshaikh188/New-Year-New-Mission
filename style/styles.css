@@ -1,6 +1,5 @@
 * {
     width: 1320px;
-    margin-right: 300px;
 }
 
 .banner-container {
@@ -8,7 +7,6 @@
     height: 600px;
     background-repeat: no-repeat;
     border-radius: 16px;
-    background: (180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     margin: 50px 100px;
 
 }
@@ -48,7 +46,43 @@
 
 }
 
-.bac{
+.bac {
     background-image: url("../New\ Year\ Photo.png");
-    
+    width: 802.9px;
+    height: 500px;
+    margin-left: 300px;
+}
+
+/* Welcome section styles */
+
+.welcome-section {
+    background-image: url("../Vectorrr.png");
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+}
+
+.welcome-text {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 40px;
+    width: 640px;
+    padding-top: 140px;
+    padding-right: 300px;
+    justify-content: space-between;
+
+}
+
+
+.welcome-img{
+    width: 120px
+
+}
+
+button {
+    width: 100px;
+    height: 25px;
 }
