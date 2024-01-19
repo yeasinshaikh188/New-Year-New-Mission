@@ -98,7 +98,7 @@ p {
 /* addres-section styles */
 
 .addres-section {
-    background-color: lightpink;
+    background-color: lightgoldenrodyellow;
     width: 1320px;
     height: 482px;
     margin: auto;
@@ -244,4 +244,52 @@ p {
     width: 424px;
     height: 450px;
     border-radius: 15px;
+}
+
+/* subscrib section */
+
+.subscribe-section {
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+.gmail-img {
+    padding-top: 80px;
+}
+
+.subscribe-title {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.button {
+    width: 300px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 25px 0px 0px 25px;
+    font-size: 18px;
+
+}
+
+.red-button {
+    position: relative;
+    left: -5px;
+    width: 140px;
+    height: 40px;
+    color: #FFF;
+    background-color: #F00;
+    border: none;
+    outline: none;
+    border-radius: 0px 25px 25px 0px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+
+
 }
