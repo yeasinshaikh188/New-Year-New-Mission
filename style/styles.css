@@ -86,7 +86,34 @@
     color: #FFF;
     padding: 10px;
     border-radius: 6px;
+}
 
+/* addres-section styles */
 
+.addres-section {
+    background-color: lightpink;
+    width: 1320px;
+    height: 482px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 80px;
+}
+
+.addres-text{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.Text-graphics{
+    color: #F00;
+}
+
+.text-btn{
+    width: 120px;
+    height: 50px;
+    background-color: #F00;
+    color: #FFF;
+    border-radius: 5px;
+    
 
 }
