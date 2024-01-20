@@ -297,26 +297,36 @@ p {
 
 /* footer section */
 
-.footer-section {
-    display: flex;
-    justify-content: space-between;
+.footer-main-section {
     width: 1500px;
-    height: 600px;
-    background: cover;
-    margin-top: 120px;
+    height: 609px;
     background: #070211;
-    
+    margin-top: 120px;
+    left: -5px;
+
+
 }
 
-.footer-title-text {
+.section-title{
+   color: #FFF;
+   width: 330px;
+   padding-left: 140px;
+   padding-top: 100px;
+}
+.ancor-section{
+    margin-left: 600px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+hr{
+    width: 1300px;
+}
+.footer-last-text{
+    display: flex;
     color: #FFF;
-    font-size: 24px;
-    font-weight: 500;
-    padding: 100px;
-    justify-content: space-between;
-
+    margin-left: 100px;
+    margin-top: 100px;
 }
-
-.footer-number{
-    padding: 60px;
+.sub{
+    margin-left: 1050px;
 }
